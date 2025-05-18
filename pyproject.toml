@@ -1,0 +1,18 @@
+[project]
+name = "The Art of Data Visualization in Python – Matplotlib"
+version = "0.1.0"
+description = "Skill Disk Workshop"
+authors = [
+    { name = "Skill Disk", email = "info@skilldisk.com" }
+]
+dependencies = [
+    "notebook==6.2",
+    "setuptools>=80.4.0",
+    "rise==5.7.1",
+    "matplotlib>=3.10.3",
+    "gif>=23.3.0",
+]
+readme = "README.md"
+requires-python = ">= 3.8"
+
+[tool.rye]

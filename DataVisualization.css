@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@400;700&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Nova+Slim&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Nova+Mono&display=swap');
+
+a{
+    color:#ffaa00!important;
+    text-decoration: none!important;
+}
+
+h1, h2{
+    text-align: center!important;
+    font-family: 'Cabin Sketch', cursive!important;
+    /* font-weight: bold; */
+    letter-spacing: 0.3rem;
+}
+
+h3, h4, h5, h6{
+    text-align: center!important;
+    font-family: "Nova Mono", monospace!important;
+    /* font-weight: bold; */
+    letter-spacing: 0.3rem;
+}
+
+h1{
+    color:#ffaa00!important;
+}
+
+#rise-header{
+    position: absolute;
+    right: 10px;
+    top:5px!important;
+}
+#rise-header>h1{
+    font-size:2.6rem;
+    color:#ffaa00!important;
+}
+#rise-footer{
+    position: absolute;
+    left: 20px;
+    top:5px!important; 
+}
+
+.reveal section img{
+    background: #00000000!important;
+}
+
+div.input_area {
+  border: 1px solid #ffaa00;
+  border-radius: 1rem;
+    border-top-left-radius: 1rem!important;
+    border-top-right-radius: 1rem!important;
+  background: #a4a4a4;
+  line-height: 1.21429em;
+}
