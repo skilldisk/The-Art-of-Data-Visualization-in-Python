@@ -22,5 +22,6 @@ Join us for a hands-on, immersive workshop where creativity meets code — learn
     → Researchers & Students
     → Anyone who wants to turn data into insight
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2Fskilldisk%2FThe-Art-of-Data-Visualization-in-Python%2F/main?urlpath=%2Fdoc%2Ftree%2FDataVisualization.ipynb)
 
 [Joining Link](https://www.skilldisk.com/webinar/the-art-of-data-visualization-in-python-matplotlib/)
